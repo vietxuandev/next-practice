@@ -1,0 +1,8 @@
+.next
+.cache
+public
+node_modules
+next-env.d.ts
+next.config.ts
+pnpm-lock.yaml
+src/generated/generates.ts
